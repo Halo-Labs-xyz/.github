@@ -44,7 +44,7 @@
 <td align="center" width="33%">
 
 ### ⚡ **Production Ready**
-- **100-200+ TPS** throughput
+- **100-200+ TPS** throughput (faster tps rollout)
 - **<$1 per 1000 transactions** settlement cost
 - **Sub-second verification** times
 - **Enterprise-grade** security and compliance
