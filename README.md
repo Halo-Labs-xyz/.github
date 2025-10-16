@@ -15,11 +15,11 @@
 
 </div>
 
-## 🎯 **Why Halo?**
+## **Why Halo?**
 
 **Halo** revolutionizes privacy in decentralized finance by enabling **confidential stablecoin transfers** while maintaining **full DeFi composability**. Unlike traditional privacy solutions that break compatibility, Halo preserves the power of programmable money while protecting user privacy.
 
-### ✨ **What Makes Halo Special**
+### **What Makes Halo Special**
 
 <table>
 <tr>
@@ -34,7 +34,7 @@
 </td>
 <td align="center" width="33%">
 
-### 🚀 **DeFi Native**
+### **DeFi Native**
 - **MetaMask compatible** - no special wallets needed
 - **Full composability** with existing DeFi protocols
 - **Standard EVM transactions** - works everywhere
@@ -55,7 +55,7 @@
 
 ---
 
-## 🌟 **The Halo Advantage**
+## **The Halo Advantage**
 
 | Feature | Traditional Privacy | **Halo** |
 |---------|-------------------|----------|
@@ -124,7 +124,7 @@ cd cli && npm start
 
 ---
 
-## 🎨 **Beautiful User Experience**
+## **Beautiful User Experience**
 
 <div align="center">
 
@@ -139,7 +139,7 @@ cd cli && npm start
     ║    ██║  ██║██║  ██║███████╗╚██████╔╝   ╚██████╔╝██║          ║
     ║    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝     ╚═════╝ ╚═╝          ║
     ║                                                              ║
-    ║              🌟 PRIVACY LAYER FOR STABLECOINS 🌟             ║
+     ║              🌟 PRIVACY LAYER FOR STABLECOINS 🌟           ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
 
