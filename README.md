@@ -144,11 +144,11 @@ cd cli && npm start
 ```
 
 **Features:**
-- 🎨 **Stunning gradients** and animations
-- 🖱️ **Interactive menus** with arrow navigation
-- 📊 **Real-time monitoring** of system status
-- 🔮 **Live updates** of batch processing
-- ✨ **Smooth animations** for all operations
+  🎨 **Stunning gradients** and animations
+  🖱️ **Interactive menus** with arrow navigation
+  📊 **Real-time monitoring** of system status
+  🔮 **Live updates** of batch processing
+  ✨ **Smooth animations** for all operations
 
 </div>
 
